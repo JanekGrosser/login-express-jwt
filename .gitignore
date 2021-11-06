@@ -1,0 +1,6 @@
+# nodejs gitignore file
+/node_modules
+/.vscode
+
+/config/config.js
+
